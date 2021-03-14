@@ -6,6 +6,8 @@ Programa por consola en Node para consultar a API **Mapbox** sobre localización
 ## Algunas librerias:
 colors, inquirer y axios
 
+## Previsualizaciones:
+
 ![alt text](./images/preview1.png)
 ![alt text](./images/preview2.png)
 ![alt text](./images/preview3.png)
